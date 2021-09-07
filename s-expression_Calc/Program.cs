@@ -132,6 +132,8 @@ namespace s_expression_Calc
         }
 
         // Apply operator on values num1 and num2 (in the case of either addition or multiplication)
+        // More function types can be added here
+        // More arguments can be added to support more than 2
         public static int applyOp(char op, int num2, int num1)
         {
             switch (op)
