@@ -1,0 +1,16 @@
+C:\Users\15195\Documents\.NET projects\s-expression_Calc\s-expression_Calc\bin\Debug\net5.0\s-expression_Calc.exe
+C:\Users\15195\Documents\.NET projects\s-expression_Calc\s-expression_Calc\bin\Debug\net5.0\s-expression_Calc.deps.json
+C:\Users\15195\Documents\.NET projects\s-expression_Calc\s-expression_Calc\bin\Debug\net5.0\s-expression_Calc.runtimeconfig.json
+C:\Users\15195\Documents\.NET projects\s-expression_Calc\s-expression_Calc\bin\Debug\net5.0\s-expression_Calc.runtimeconfig.dev.json
+C:\Users\15195\Documents\.NET projects\s-expression_Calc\s-expression_Calc\bin\Debug\net5.0\s-expression_Calc.dll
+C:\Users\15195\Documents\.NET projects\s-expression_Calc\s-expression_Calc\bin\Debug\net5.0\ref\s-expression_Calc.dll
+C:\Users\15195\Documents\.NET projects\s-expression_Calc\s-expression_Calc\bin\Debug\net5.0\s-expression_Calc.pdb
+C:\Users\15195\Documents\.NET projects\s-expression_Calc\s-expression_Calc\obj\Debug\net5.0\s-expression_Calc.csproj.AssemblyReference.cache
+C:\Users\15195\Documents\.NET projects\s-expression_Calc\s-expression_Calc\obj\Debug\net5.0\s-expression_Calc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\15195\Documents\.NET projects\s-expression_Calc\s-expression_Calc\obj\Debug\net5.0\s-expression_Calc.AssemblyInfoInputs.cache
+C:\Users\15195\Documents\.NET projects\s-expression_Calc\s-expression_Calc\obj\Debug\net5.0\s-expression_Calc.AssemblyInfo.cs
+C:\Users\15195\Documents\.NET projects\s-expression_Calc\s-expression_Calc\obj\Debug\net5.0\s-expression_Calc.csproj.CoreCompileInputs.cache
+C:\Users\15195\Documents\.NET projects\s-expression_Calc\s-expression_Calc\obj\Debug\net5.0\s-expression_Calc.dll
+C:\Users\15195\Documents\.NET projects\s-expression_Calc\s-expression_Calc\obj\Debug\net5.0\ref\s-expression_Calc.dll
+C:\Users\15195\Documents\.NET projects\s-expression_Calc\s-expression_Calc\obj\Debug\net5.0\s-expression_Calc.pdb
+C:\Users\15195\Documents\.NET projects\s-expression_Calc\s-expression_Calc\obj\Debug\net5.0\s-expression_Calc.genruntimeconfig.cache
